@@ -31,6 +31,6 @@ Eniac is a Spain-founded online marketplace specializing in Apple products and c
 **Operationally reliable logistics**: Average delivery time is 12.5 days, outperforming the estimated 23.4 days, indicating strong logistics execution and service reliability.
 **Limited scalability signal in premium tech**: Only 444 tech sellers and 15.4K tech products sold over two years suggest that high-end tech demand remains niche.
 **High external risk exposure**: 2018 macroeconomic instability, currency volatility, and weak consumer purchasing power increase financial and brand risk for immediate entry.
-##Business Impact
+## Business Impact
 Brazil is a large and attractive long-term opportunity, but current premium demand and economic instability make immediate expansion high risk. A delayed entry preserves capital and brand positioning while monitoring market recovery signals.
 
