@@ -36,10 +36,10 @@ Brazil is a large and attractive long-term opportunity, but current premium dema
 
 ## 🛠️ Technologies Used
 **Programming**:
-SQL
+SQL\
 **Tools**:
 SQL environment (for querying and aggregation)
-Spreadsheet software (for tabular analysis and reporting)
+Spreadsheet software (for tabular analysis and reporting)\
 **Approach**:
 Relational data analysis using SQL (joins, aggregations, filtering, grouping)
 Exploratory data analysis through structured tables
