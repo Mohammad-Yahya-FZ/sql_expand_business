@@ -34,3 +34,14 @@ Eniac is a Spain-founded online marketplace specializing in Apple products and c
 ## Business Impact
 Brazil is a large and attractive long-term opportunity, but current premium demand and economic instability make immediate expansion high risk. A delayed entry preserves capital and brand positioning while monitoring market recovery signals.
 
+## 🛠️ Technologies Used
+**Programming**:
+SQL
+**Tools**:
+SQL environment (for querying and aggregation)
+Spreadsheet software (for tabular analysis and reporting)
+**Approach**:
+Relational data analysis using SQL (joins, aggregations, filtering, grouping)
+Exploratory data analysis through structured tables
+Domain research on Brazilian eCommerce market conditions, macroeconomic risks, and premium tech demand to support business conclusions
+Focus was placed on extracting business insights directly from structured data rather than building predictive models.
