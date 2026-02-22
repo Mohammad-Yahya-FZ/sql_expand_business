@@ -36,12 +36,12 @@ Brazil is a large and attractive long-term opportunity, but current premium dema
 
 ## 🛠️ Technologies Used
 **Programming**:
-SQL\
+- SQL\
 **Tools**:
-SQL environment (for querying and aggregation)
-Spreadsheet software (for tabular analysis and reporting)\
+- SQL environment (for querying and aggregation)
+- Spreadsheet software (for tabular analysis and reporting)\
 **Approach**:
-Relational data analysis using SQL (joins, aggregations, filtering, grouping)
-Exploratory data analysis through structured tables
+- Relational data analysis using SQL (joins, aggregations, filtering, grouping)
+- Exploratory data analysis through structured tables
 Domain research on Brazilian eCommerce market conditions, macroeconomic risks, and premium tech demand to support business conclusions
 Focus was placed on extracting business insights directly from structured data rather than building predictive models.
