@@ -74,3 +74,8 @@ Focus was placed on extracting business insights directly from structured data r
 - Market timing analysis: Track macroeconomic indicators such as exchange rates, inflation, and consumer purchasing power to identify a better entry window.
 - Competitive benchmarking: Compare Brazil’s premium tech market with similar international markets to estimate realistic growth potential for Eniac.
 - Scenario planning: Build financial scenarios for entering now vs. postponing entry, including risks to revenue, brand positioning, and operational control.
+## Contact
+
+**Email:** [yahya.faqirzada1@gmail.com](mailto:yahya.faqirzada1@gmail.com)
+**LinkedIn:** [Yahya Faqirzada](https://www.linkedin.com/in/yahya-faqirzada-551a12134)
+**GitHub:** [Mohammad-Yahya-FZ/sql_expand_business](https://github.com/Mohammad-Yahya-FZ/sql_expand_business)
