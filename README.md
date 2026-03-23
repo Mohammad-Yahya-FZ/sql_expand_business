@@ -45,22 +45,22 @@ Brazil is a large and attractive long-term opportunity, but current premium dema
 - Exploratory data analysis through structured tables
 
  # **How to Use This Project**
-##Main Analysis:
+## Main Analysis:
 Review the core SQL analysis inside /queries/exploratory_analysis.sql.
 If included, open /notebooks/market_analysis.ipynb for a structured business walkthrough of the findings.
-Data:
+## Data:
 Use the dataset provided in the /data folder.
 Ensure all tables are imported into your SQL environment before running queries.
-Run the Analysis:
+## Run the Analysis:
 Open your preferred SQL tool (MySQL, PostgreSQL, or similar).
 Import the raw tables.
 Execute the queries in the /queries folder step by step.
 Export results if you want to recreate the visualisations.
-Reproducing Visualisations:
+## Reproducing Visualisations:
 Use the aggregated query outputs.
 Recreate charts in Excel, Google Sheets, or a notebook environment.
 Match the metrics shown in the /images folder.
-Dependencies:
+## Dependencies:
 SQL-compatible database environment
 Spreadsheet software (for charts and reporting)
 No additional libraries or advanced setup required
