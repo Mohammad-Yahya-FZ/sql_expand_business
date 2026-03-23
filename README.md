@@ -67,3 +67,10 @@ No additional libraries or advanced setup required
 For best understanding, start with the README.md, then review the SQL queries to see how each business insight was derived
 - Domain research on Brazilian eCommerce market conditions, macroeconomic risks, and premium tech demand to support business conclusions\
 Focus was placed on extracting business insights directly from structured data rather than building predictive models.
+
+# Future Work
+- Deeper premium-segment analysis: Investigate high-end tech categories in more detail to understand whether specific products show stronger demand than the overall average suggests.
+- Scalability assessment: Evaluate whether Magist can support Eniac’s future sales volume through service-level data, warehouse capacity, and operational benchmarks.
+- Market timing analysis: Track macroeconomic indicators such as exchange rates, inflation, and consumer purchasing power to identify a better entry window.
+- Competitive benchmarking: Compare Brazil’s premium tech market with similar international markets to estimate realistic growth potential for Eniac.
+- Scenario planning: Build financial scenarios for entering now vs. postponing entry, including risks to revenue, brand positioning, and operational control.
