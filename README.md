@@ -43,5 +43,27 @@ Brazil is a large and attractive long-term opportunity, but current premium dema
 **Approach**:
 - Relational data analysis using SQL (joins, aggregations, filtering, grouping)
 - Exploratory data analysis through structured tables
+
+ **How to Use This Project**
+Main Analysis:
+Review the core SQL analysis inside /queries/exploratory_analysis.sql.
+If included, open /notebooks/market_analysis.ipynb for a structured business walkthrough of the findings.
+Data:
+Use the dataset provided in the /data folder.
+Ensure all tables are imported into your SQL environment before running queries.
+Run the Analysis:
+Open your preferred SQL tool (MySQL, PostgreSQL, or similar).
+Import the raw tables.
+Execute the queries in the /queries folder step by step.
+Export results if you want to recreate the visualisations.
+Reproducing Visualisations:
+Use the aggregated query outputs.
+Recreate charts in Excel, Google Sheets, or a notebook environment.
+Match the metrics shown in the /images folder.
+Dependencies:
+SQL-compatible database environment
+Spreadsheet software (for charts and reporting)
+No additional libraries or advanced setup required
+For best understanding, start with the README.md, then review the SQL queries to see how each business insight was derived
 - Domain research on Brazilian eCommerce market conditions, macroeconomic risks, and premium tech demand to support business conclusions\
 Focus was placed on extracting business insights directly from structured data rather than building predictive models.
